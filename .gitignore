@@ -1,0 +1,33 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Generated outputs (uncomment if you don't want charts/results tracked)
+# *.png
+# FRAM_Maruti_Assignment_Results.xlsx
+
+# Environment variables / secrets
+.env
+*.pem
+
+# Logs
+*.log
